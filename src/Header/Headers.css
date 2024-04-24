@@ -1,0 +1,33 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+.headermain1{
+    display: flex;
+    justify-content:space-around;
+    height: 70px;
+    background-color: black;
+}
+.ad-sale {
+  position: relative;
+    font-size: 24px;
+    font-weight: 500;
+    /* margin-left: 200px; */
+    align-self:center;
+    color: white;
+    right: 200px;
+  }
+
+.header-tops{
+  position: relative;
+  left: 120px;
+    height: 30px;
+    align-self: center;
+}
+.account{
+  color: white;
+  text-decoration: none;
+  font-size:large;
+  margin-left: 15px;
+}

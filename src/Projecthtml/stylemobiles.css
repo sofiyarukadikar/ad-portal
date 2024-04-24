@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .containers {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  header h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .about h2,
+  .mission h2,
+  .sets-apart h2,
+  .services h2,
+  .join h2,
+  .contact h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .about p,
+  .mission p,
+  .join p,
+  .contact p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .sets-apart ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .services ul {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+  
+  .services li {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .contact p {
+    margin-bottom: 0;
+  }
+  
